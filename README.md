@@ -5,5 +5,5 @@ Enter Your Name
 Enter Your Age
 Enter Your Height
 Ages Above 50 are considered as Old
-Heights 6ft and above are considere4d as Tall.
+Heights 6ft and above are considered as Tall.
 Hope Your are able to learn a few things from the program.           Thank You.
